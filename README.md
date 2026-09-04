@@ -7,3 +7,5 @@ create template.py file and run it
  in setup file put code
  create virtual environment and activate
  install requiremaent file pip install -r requirements.txt
+
+ Run streamlit : streamlit run app.py
