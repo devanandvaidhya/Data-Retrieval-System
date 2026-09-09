@@ -1,8 +1,21 @@
-python-dotenv
-google-generativeai
+# python-dotenv
+# google-generativeai
 langchain
-PyPDF2
+# PyPDF2
 faiss-cpu
 streamlit
 -e .
 ipykernel
+
+langchain-community
+pypdf
+langchain-text-splitters
+langchain-openai
+langchain-chroma 
+langchain-classic
+chromadb
+langchain-groq
+python-dotenv
+huggingface_hub
+sentence-transformers
+langchain-huggingface
