@@ -19,3 +19,4 @@ python-dotenv
 huggingface_hub
 sentence-transformers
 langchain-huggingface
+torchvision
